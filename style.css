@@ -4,15 +4,46 @@ h1{
     font-family: "Silkscreen", sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: xx-large;
+    font-size: x-large;
 }
 p{
     font-family: "Hind Mysuru", sans-serif;
-    font-weight: 700;
+    font-weight: 500;
     font-style: normal;
-    font-size:30px;
+    font-size:large;
 }
 .ASCII{
     font-size:medium;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size:11px;
+}
+table, th, td {
+    border-collapse: collapse;
+    padding: 10px;
+    width: 100%;
+    table-layout: auto
+}
+th{
+    color: black;
+    text-align: center;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: x-large;
+}
+td{
+    color: black;
+    font-family: "Hind Mysuru", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size:large;
+}
+#Notebook{
+    width: 1000px;
+    height:30px;
+    font-family: "Hind Mysuru", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size:large;
 }
